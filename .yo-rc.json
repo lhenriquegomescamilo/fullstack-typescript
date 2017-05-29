@@ -1,0 +1,19 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "fullstack-app",
+    "username": "luis.camilo",
+    "userEmail": "lhenriquegomescamilo@gmail.com",
+    "stack": "fullstack",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "luis.camilo",
+    "client": "ng2",
+    "stylePreprocessor": "sass",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "typescript",
+    "secure": false,
+    "testsSeparated": true,
+    "differentStaticServer": true,
+    "boilerplate": true
+  }
+}
